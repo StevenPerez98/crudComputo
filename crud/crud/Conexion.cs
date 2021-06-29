@@ -20,7 +20,7 @@ namespace crud
         {
             try
             {
-                cnn = new SqlConnection("Data Source=DESKTOP-BFA1LAK;Initial Catalog=CRUDELEVATEC;Integrated Security=True");
+                cnn = new SqlConnection("Data Source=DESKTOP-QETR9PD;Initial Catalog=CRUDELEVATEC;Integrated Security=True");
                 cnn.Open();
                 MessageBox.Show("Conexion exitosa");
             }
@@ -58,6 +58,25 @@ namespace crud
                 while (dr.Read())
                 {
                     cb2.Items.Add(dr["nombreProyecto"].ToString());
+                }
+                dr.Close();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("No se lleno el combo box" + ex.ToString());
+            }
+        }
+
+        /*Se crea el segundo metodo para llenar el comboBox3*/
+        public void llenarTencio(ComboBox cb3)
+        {
+            try
+            {
+                cmd = new SqlCommand("SELECT nombreTecnico From Tecnico", cnn);
+                dr = cmd.ExecuteReader();
+                while (dr.Read())
+                {
+                    cb3.Items.Add(dr["nombreTecnico"].ToString());
                 }
                 dr.Close();
             }

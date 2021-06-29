@@ -8,3 +8,12 @@ C:\Users\Steven\source\repos\crud\crud\bin\Debug\crud.exe
 C:\Users\Steven\source\repos\crud\crud\bin\Debug\crud.pdb
 C:\Users\Steven\source\repos\crud\crud\obj\Debug\crud.exe
 C:\Users\Steven\source\repos\crud\crud\obj\Debug\crud.pdb
+A:\Users\Elevatec Computo\Downloads\crudComputo-main\crud\crud\bin\Debug\crud.exe.config
+A:\Users\Elevatec Computo\Downloads\crudComputo-main\crud\crud\bin\Debug\crud.exe
+A:\Users\Elevatec Computo\Downloads\crudComputo-main\crud\crud\bin\Debug\crud.pdb
+A:\Users\Elevatec Computo\Downloads\crudComputo-main\crud\crud\obj\Debug\crud.csprojAssemblyReference.cache
+A:\Users\Elevatec Computo\Downloads\crudComputo-main\crud\crud\obj\Debug\crud.Form1.resources
+A:\Users\Elevatec Computo\Downloads\crudComputo-main\crud\crud\obj\Debug\crud.Properties.Resources.resources
+A:\Users\Elevatec Computo\Downloads\crudComputo-main\crud\crud\obj\Debug\crud.csproj.GenerateResource.cache
+A:\Users\Elevatec Computo\Downloads\crudComputo-main\crud\crud\obj\Debug\crud.exe
+A:\Users\Elevatec Computo\Downloads\crudComputo-main\crud\crud\obj\Debug\crud.pdb
